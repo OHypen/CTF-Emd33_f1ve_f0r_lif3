@@ -12,8 +12,8 @@ def get_and_hash(ret):
     end = ret.find("</h3>")
     md5_string = ret[begin:end].encode('utf-8')
     digest = hashlib.md5(md5_string).hexdigest()
-    jls_extract_var = digest
-    return jls_extract_var 
+    digest = hashlib.md5(md5_string).hexdigest()
+    return digest 
 
 ##########################################################
 
