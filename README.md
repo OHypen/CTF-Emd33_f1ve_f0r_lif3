@@ -3,11 +3,13 @@
 # Emdee Five for Life
 ## Hack The Box: https://app.hackthebox.eu/challenges/67
 
-### 🔨 Was programming necessary?
-    - Yes
 ###  What technology was used?
     - Python
     - HashLib
     - Requests
+### Infos:
+    - OS: Kali Linux
+    - Tools: VScode and Terminal
+    - Difficulty level: [] Very Easy | [✅] Easy | [] Medium | [] High
     
 ### 🏆 Victory: https://www.hackthebox.eu/achievement/challenge/579752/67
