@@ -3,7 +3,7 @@
 # Emdee Five for Life
 ## Hack The Box: https://app.hackthebox.eu/challenges/67
 
-### 🔨 Was the schedule used?
+### 🔨 Was programming necessary?
     - Yes
 ###  What technology was used?
     - Python
